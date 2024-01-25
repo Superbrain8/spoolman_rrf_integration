@@ -22,6 +22,7 @@ edit the informations in there to your likings
 - Timer: Controls how often the script updates, default value is 10000 this equals 10 seconds
 
 to start the script make sure node is installed
+install the packages with npm install
 run npm index.js to launch the script.
 running it headless is up to the enduser
 
