@@ -1,0 +1,15 @@
+{
+  "name": "rrf_spoolman_broker",
+  "version": "1.0.0",
+  "description": "a simple Script to translate from RRF to Spoolman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Superbrain8",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "node-fetch": "^3.3.2"
+  }
+}
